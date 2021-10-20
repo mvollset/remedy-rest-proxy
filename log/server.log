@@ -1,0 +1,86 @@
+{"level":"debug","message":"Request"}
+{"level":"debug","message":"debug"}
+{"level":"warn","message":"warn"}
+{"level":"debug","message":"Request"}
+{"level":"debug","message":"debug"}
+{"level":"warn","message":"warn"}
+{"level":"debug","message":"Request"}
+{"level":"debug","message":"debug"}
+{"level":"warn","message":"warn"}
+{"level":"debug","message":"Request"}
+{"level":"debug","message":"debug"}
+{"level":"warn","message":"warn"}
+{"level":"debug","message":"Request"}
+{"level":"debug","message":"debug"}
+{"level":"warn","message":"warn"}
+{"level":"debug","message":"Request"}
+{"level":"debug","message":"debug"}
+{"level":"debug","message":"debug"}
+{"level":"warn","message":"warn"}
+{"level":"debug","message":"Request"}
+{"level":"debug","message":"debug"}
+{"level":"debug","message":"debug"}
+{"level":"warn","message":"warn"}
+{"level":"debug","message":"Request"}
+{"level":"debug","message":"debug"}
+{"level":"warn","message":"warn"}
+{"level":"debug","message":"Request"}
+{"level":"debug","message":"debug"}
+{"level":"debug","message":"debug"}
+{"level":"warn","message":"warn"}
+{"level":"debug","message":"Request"}
+{"level":"debug","message":"debug"}
+{"level":"debug","message":"debug"}
+{"level":"debug","message":"debug"}
+{"level":"debug","message":"debug"}
+{"level":"warn","message":"warn"}
+{"level":"debug","message":"Request"}
+{"level":"debug","message":"debug"}
+{"level":"warn","message":"warn"}
+{"level":"debug","message":"Remedy Credentials:","password":"99rtv01","user":"admin"}
+{"headers":{"Content-Length":31,"Content-Type":"application/x-www-form-urlencoded"},"host":"b27apvw197.preprod.local","https":false,"level":"debug","message":"Post options:","method":"POST","path":"/api/jwt/login","port":8008}
+{"level":"debug","message":"Sent to Authentication"}
+{"level":"debug","message":"Request"}
+{"level":"debug","message":"returned from AR authenicate"}
+{"level":"error","message":"Authentication returned: "}
+{"level":"warn","message":"Wrong Remedy password/user"}
+{"level":"debug","message":"Response from Remedy/UU"}
+{"level":"debug","message":"debug"}
+{"level":"warn","message":"warn"}
+{"level":"debug","message":"Remedy Credentials:","password":"99rtv01","user":"Administrator"}
+{"headers":{"Content-Length":39,"Content-Type":"application/x-www-form-urlencoded"},"host":"b27apvw197.preprod.local","https":false,"level":"debug","message":"Post options:","method":"POST","path":"/api/jwt/login","port":8008}
+{"level":"debug","message":"Sent to Authentication"}
+{"level":"debug","message":"Request"}
+{"level":"debug","message":"returned from AR authenicate"}
+{"level":"debug","message":"debug"}
+{"level":"warn","message":"warn"}
+{"level":"debug","message":"Remedy Credentials:","password":"99rtv01","user":"Administrator"}
+{"headers":{"Content-Length":39,"Content-Type":"application/x-www-form-urlencoded"},"host":"b27apvw197.preprod.local","https":false,"level":"debug","message":"Post options:","method":"POST","path":"/api/jwt/login","port":8008}
+{"level":"debug","message":"Sent to Authentication"}
+{"level":"debug","message":"Request"}
+{"level":"debug","message":"returned from AR authenicate"}
+{"level":"debug","message":"Get proxy headers"}
+{"level":"debug","message":"proxied"}
+{"level":"debug","message":"Returned from proxy"}
+{"level":"debug","message":"RAW Response from the target"}
+{"level":"debug","message":"debug"}
+{"level":"warn","message":"warn"}
+{"level":"debug","message":"Remedy Credentials:","password":"99rtv01","user":"Administrator"}
+{"headers":{"Content-Length":39,"Content-Type":"application/x-www-form-urlencoded"},"host":"b27apvw197.preprod.local","https":false,"level":"debug","message":"Post options:","method":"POST","path":"/api/jwt/login","port":8008}
+{"level":"debug","message":"Sent to Authentication"}
+{"level":"debug","message":"Request"}
+{"level":"debug","message":"returned from AR authenicate"}
+{"level":"debug","message":"Get proxy headers"}
+{"level":"debug","message":"proxied"}
+{"level":"debug","message":"Returned from proxy"}
+{"level":"debug","message":"RAW Response from the target"}
+{"level":"debug","message":"debug"}
+{"level":"warn","message":"warn"}
+{"level":"debug","message":"Remedy Credentials:","password":"99rtv01","user":"Administrator"}
+{"headers":{"Content-Length":39,"Content-Type":"application/x-www-form-urlencoded"},"host":"b27apvw197.preprod.local","https":false,"level":"debug","message":"Post options:","method":"POST","path":"/api/jwt/login","port":8008}
+{"level":"debug","message":"Sent to Authentication"}
+{"level":"debug","message":"returned from AR authenicate"}
+{"level":"debug","message":"Get proxy headers"}
+{"level":"debug","message":"proxied"}
+{"level":"debug","message":"Returned from proxy"}
+{"level":"debug","message":"RAW Response from the target"}

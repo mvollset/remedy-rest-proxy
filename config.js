@@ -1,0 +1,24 @@
+//process.env.VALIDATING_PROXY_KEY must be set this is 
+//process.env.VALIDATING_PROXY_JWTSECRET
+module.exports={
+    https:false,
+    //http://b27apvw197.preprod.local:8008/api/jwt/login
+    server:'b27apvw197.preprod.local',
+    port:8008,
+    jwtSecret:'secret',
+    handleExpect:true,
+    loglevel:"debug",
+    console:'debug',
+    //bodySize:"1024kb",
+    /*urlRewrite:{
+        match:/(\/remedy\/api\/)(.*)/i,
+        replace:"$2"
+    },*/
+    jwtValidator:{
+        serverAddress:'http://www.vg.no',
+        header:'authorization',
+        returnCode:200,
+        userinfoproperty:"user",
+        userproperty:"userinfo"
+    }
+}
