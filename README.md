@@ -1,6 +1,6 @@
 # remedy-rest-proxy
 
-For some reason BMC decided that the smartest thing would be to use their "own" authentication method. Even if it is very similar to an Oauth, it still requires some special handling 
+For some reason BMC decided that the smart thing would be to use their "own" authentication method. Even if it is very similar to an Oauth, it still requires some special handling 
 of token prefixes etc. This means that the, actually really fast and well functioning, ARS rest api can be somewhat hard to get too without writing code. 
 
 So to enable "Basic auth" for the remedy rest api, I wrote this little proxy a few years ago. I say this because the connect-app style is somewhat dated, even if it works really well. 
